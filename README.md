@@ -1,1 +1,3 @@
-# Traditional-Machine-Learning
+# Traditional Machine Learning
+
+Welcome to my Data Science Portfolio, where I showcase my hands-on experience with various traditional machine learning algorithms. As a data science student passionate about extracting insights from data, I've undertaken a series of projects that highlight my proficiency in implementing classic machine learning techniques. From regression models to ensemble methods, each project serves as a testament to my skills in applying these algorithms to diverse datasets and problem domains. This portfolio offers a glimpse into my journey of mastering traditional machine learning.
